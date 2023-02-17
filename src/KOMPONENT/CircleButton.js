@@ -1,8 +1,8 @@
 import "../STYLE/circleButton.css";
-function CircleButton() {
+function CircleButton(props) {
   return (
     <div class="center-con">
-      <div class="round">
+      <div class="round" onClick={props.onClick}>
         <div id="cta">
           <span class="arrow primera next "></span>
           <span class="arrow segunda next "></span>

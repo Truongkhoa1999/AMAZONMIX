@@ -1,9 +1,9 @@
-.round {
+.round1 {
   border: 2px solid #fff;
   width: 50px;
   height: 50px;
   border-radius: 100%;
-  transform: rotate(0);
+  transform: rotate(180deg);
 }
 
 #cta {
@@ -65,13 +65,13 @@
   animation-timing-function: linear;
 }
 
-.round:hover .arrow {
+.round1:hover .arrow {
   animation-name: bounceAlpha;
   animation-duration: 1.4s;
   animation-iteration-count: infinite;
   animation-timing-function: linear;
 }
-.round:hover .arrow.primera {
+.round1:hover .arrow.primera {
   animation-name: bounceAlpha;
   animation-duration: 1.4s;
   animation-delay: 0.2s;
