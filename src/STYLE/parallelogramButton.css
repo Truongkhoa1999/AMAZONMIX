@@ -1,0 +1,12 @@
+.parallelogram-button {
+  font-family: "Jua";
+  width: 233px;
+  height: 53px;
+  background-color: white;
+  transform: skew(-20deg);
+  display: inline-block;
+  color: black;
+  text-align: center;
+  line-height: 53px;
+  cursor: pointer;
+}/*# sourceMappingURL=parallelogramButton.css.map */
