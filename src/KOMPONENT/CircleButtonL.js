@@ -1,6 +1,5 @@
-// import '../STYLE/circleButton.css'
-import '../STYLE/circleButtonL.css'
 
+import '../STYLE/circleButtonL.css'
 function CircleButtonL(props) {
     return (
       <div class="center-con">

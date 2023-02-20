@@ -32,7 +32,7 @@ function Pagination() {
           className="range silderContent"
           type="range"
           value={value}
-          min="1"
+            min="1"
           max="3"
           onChange={rangeSlide}
           disabled
